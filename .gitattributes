@@ -1,0 +1,5 @@
+* text eol=lf
+
+*.sqlite  binary
+# even though it is actually text, it's just too big to care about the line endings
+*.json    binary
